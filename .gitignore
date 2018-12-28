@@ -1,0 +1,24 @@
+*.iml
+*/*.iml
+*/*/*.iml
+*.ipr
+*.iws
+/out/
+.idea_modules/
+*.class
+*.log
+.DS_Store
+/.idea
+target
+/classes
+*rebel.xml*
+*rebel-remote.xml*
+#前端构建
+node_modules/
+
+# 其他编辑器
+*.project
+*.prefs
+*.classpath
+*.factorypath
+.vscode/launch.json
